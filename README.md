@@ -1,20 +1,20 @@
-# 📝 Note Taking App (MERN)
+# Note Taking App (MERN)
 
 A full-stack Note Taking Application built using the **MERN stack (MongoDB, Express.js, React, Node.js)**. Users can securely create, manage, and organize notes with a clean and responsive interface.
 
 ---
 
-## 🚀 Features
+## Features
 
-* ✍️ Create, edit, and delete notes
-* 🔐 User authentication (JWT-based)
-* 📱 Responsive UI
-* ⚡ Fast React frontend with REST API backend
-* 🗂️ Organized note management
+* Create, edit, and delete notes
+* User authentication (JWT-based)
+* Responsive UI
+* Fast React frontend with REST API backend
+* Organized note management
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -32,7 +32,7 @@ A full-stack Note Taking Application built using the **MERN stack (MongoDB, Expr
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```id="projstruct"
 backend/
@@ -52,7 +52,7 @@ frontend/
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 ### 1. Clone Repository
 
@@ -96,7 +96,7 @@ npm start
 
 ---
 
-## 🌐 Usage
+## Usage
 
 * Visit: `http://localhost:3000`
 * Register or login
@@ -104,7 +104,7 @@ npm start
 
 ---
 
-## 📦 API Overview
+## API Overview
 
 | Method | Endpoint       | Description     |
 | ------ | -------------- | --------------- |
@@ -112,12 +112,5 @@ npm start
 | POST   | /api/notes     | Create a note   |
 | PUT    | /api/notes/:id | Update a note   |
 | DELETE | /api/notes/:id | Delete a note   |
-
----
-
-## 👨‍💻 Author
-
-**Rishi**
-GitHub: https://github.com/rishii3468
 
 ---
